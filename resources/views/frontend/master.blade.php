@@ -97,8 +97,7 @@
     <script src="{{ asset('frontend/assets/js/contact.form.js') }}"></script>
     <!-- rsmenu js -->
     <script src="{{ asset('frontend/assets/js/rsmenu-main.js') }}"></script>
-    <!-- moogle map js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgC6ZapXdUzFdeQOFhdm_wucwlDMMQ8CQ"></script>
+
     <script src="{{ asset('frontend/assets/js/gmap.js') }}"></script>
     <!-- main js -->
     <script src="{{ asset('frontend/assets/js/main.js') }}"></script>
