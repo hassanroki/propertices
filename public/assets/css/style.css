@@ -1,0 +1,11 @@
+
+
+/* Table */
+.table-sm th, .table-sm td {
+    padding: 2px;
+    vertical-align: middle;
+    text-align: center;
+}
+.btn-sm {
+    padding: 2px 2px; 
+}
